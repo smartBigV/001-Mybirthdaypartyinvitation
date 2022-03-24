@@ -1,7 +1,10 @@
-body{
-    background-image: url(partyb.jpg);
+body {
+    background-color: #e4d9ff ;
+    font-family: cursive;
 }
 
-food{
-    background-color: #defcdf;
+.food{
+    background-color: #d9fffb;
+    border-radius: 30px;
+    padding: 10px;
 }
