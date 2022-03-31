@@ -1,12 +1,12 @@
 body{
-    background-color: #acd0e6;
+    background-image: url(background.webp);
 }
 body{
-    font-family: fantasy;
-    
+    font-family:cursive;
+    text-align: center;
 }
 div{
-    background-color: #b3b8ff;
+    background-color: #d9fffb;
     border-radius: 30px;
     padding: 10px;
 }

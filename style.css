@@ -1,6 +1,7 @@
 body {
-    background-color: #e4d9ff ;
+    background-image: url(background.webp) ;
     font-family: cursive;
+    text-align: center;
 }
 
 .food{

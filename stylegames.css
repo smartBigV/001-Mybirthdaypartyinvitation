@@ -1,9 +1,21 @@
 body{
-    background-color: #ccf0d0;
+    background-image: url(background.webp);
 }
 head{
-    font-family: fantasy;
+    font-family:cursive;
+    text-align: center;
 }
 body{
-    font-family:fantasy ;
+    font-family:cursive ;
+    text-align: center;
+    
+}
+.image{
+    width: 400px;
+    text-align: right;
+}
+div{
+    background-color: #d9fffb;
+    border-radius: 30px;
+    padding: 10px;
 }
