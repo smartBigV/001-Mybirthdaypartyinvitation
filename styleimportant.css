@@ -3,3 +3,8 @@ body{
     font-family:cursive;
     text-align: center;
 }
+.sale{
+    background-color:  #d9fffb;
+    border-radius: 30px;
+    padding: 10px;
+}

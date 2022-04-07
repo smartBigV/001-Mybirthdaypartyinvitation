@@ -11,11 +11,21 @@ body{
     
 }
 .image{
-    width: 400px;
+    width: 500px;
     text-align: right;
+    margin-left: 850px;
 }
-div{
+.Navbar{
     background-color: #d9fffb;
     border-radius: 30px;
     padding: 10px;
+}
+
+.text {
+    margin-right: 250px;
+    margin-top: -500px;
+    font-size: 25px;
+}
+.title {
+    font-size: 40px;
 }
